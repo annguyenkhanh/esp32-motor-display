@@ -1,0 +1,2 @@
+source /home/an/MotorDisplay/motor-display/build/gdbinit/symbols
+source /home/an/MotorDisplay/motor-display/build/gdbinit/connect
